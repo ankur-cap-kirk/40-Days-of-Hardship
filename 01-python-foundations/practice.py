@@ -1,1 +1,1 @@
-print("hello form branch B")
+print("hello from branch B")
