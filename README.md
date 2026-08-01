@@ -1,1 +1,1 @@
-# 40-Days-of-Pain
+# 40-Days-of-Hardship
